@@ -1,0 +1,20 @@
+
+Node.js & Express From Scratch [FINAL] - Deploying Our App
+
+https://www.youtube.com/watch?v=_GSOnHRYSS0&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp&index=12
+
+=========================
+
+https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb
+
+https://bestofjs.org/projects/hackathon-starter
+
+https://bestofjs.org/projects/pwa
+
+https://dev.to/
+
+https://hackernoon.com/how-to-develop-a-boilerplate-for-api-with-node-js-express-and-mongodb-4c771ae1c2df
+
+https://www.artificial-solutions.com/chatbots
+
+https://frontendchecklist.io/
