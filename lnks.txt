@@ -18,3 +18,6 @@ https://hackernoon.com/how-to-develop-a-boilerplate-for-api-with-node-js-express
 https://www.artificial-solutions.com/chatbots
 
 https://frontendchecklist.io/
+
+
+https://geekflare.com/become-a-front-end-developer/
