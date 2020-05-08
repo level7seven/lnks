@@ -21,3 +21,15 @@ https://frontendchecklist.io/
 
 
 https://geekflare.com/become-a-front-end-developer/
+
+Od MongoDB do MySQL
+Chcesz uruchomić aplikację Express z MySQL? Jesteśmy z Tobą.
+https://closebrace.com/tutorials/2018-01-23/from-mongodb-to-mysql
+
+https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2
+
+https://nocodehq.com/template/personal-page-1571416786118x750769950717902800
+
+AI webasite builder
+https://app.weblium.com/websites#template-explorer
+
